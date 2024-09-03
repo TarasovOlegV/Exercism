@@ -1,15 +1,11 @@
 (ns complex-numbers)
 
-(defn real [[a b]] ;; <- arglist goes here
-  ;; your code goes here
-)
+(defn real [[a b]] a)
 
-(defn imaginary [[a b]] ;; <- arglist goes here
-  ;; your code goes here
-)
+(defn imaginary [[a b]] b)
 
-(defn abs [[a b]] ;; <- arglist goes here
-  ;; your code goes here
+(defn abs [[a b]]  
+
 )
 
 (defn conjugate [[a b]] ;; <- arglist goes here
